@@ -11,7 +11,7 @@ const LEVELS = [
     id: 2, difficulty: 'BETA', size: 6, 
     // New Mid-Tier: Larger grid, more walking required
     targets: [{v: 1, x:0, y:0}, {v: 2, x:5, y:0}, {v: 3, x:0, y:5}, {v: 4, x:5, y:5}],
-    barriers: [{x:2, y:2}, {x:3, y:3}, {x:2, y:3}, {x:3, y:2}] 
+    barriers: [{x:2, y:2}, {x:3, y:3}, {x:2, y:3}, {x:3, y:2}, {x:4, y:5}] 
   },
   { 
     id: 3, difficulty: 'GAMMA', size: 7, 
