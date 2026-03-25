@@ -161,7 +161,7 @@ function App() {
             <div className="absolute inset-0 bg-emerald-500 text-black flex flex-col items-center justify-center p-10 z-50 text-center rounded-2xl">
               <h2 className="text-3xl font-black italic mb-2 tracking-tighter uppercase leading-none">Access Granted</h2>
               <div className="bg-black text-white px-8 py-4 mt-6 rounded font-mono font-bold text-xl shadow-2xl">
-                CODE: BMSCE
+                CODE: G7@kL!2xQ#9mP$zR&4t
               </div>
               <button onClick={() => window.location.reload()} className="mt-10 text-[9px] font-black uppercase underline tracking-[0.5em]">Close</button>
             </div>
